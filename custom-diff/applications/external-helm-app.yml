@@ -27,7 +27,7 @@ spec:
     jsonPointers:
     - /metadata/annotations/creation
   - group: ""
-    kind: secret
+    kind: Secret
     name: example-secret
     namespace: example02
     jsonPointers:
